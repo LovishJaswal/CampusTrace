@@ -1,8 +1,7 @@
 # CampusTrace
 
 CampusTrace is a MERN-based lost and found portal designed for students to report, track, and manage lost items on campus.
-
-The project was built while learning full-stack development using React, Node.js, Express, and MongoDB.
+Built with heavy AI assistance while learning MERN architecture just to understand the workflow
 
 ---
 
